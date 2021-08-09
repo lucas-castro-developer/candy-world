@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/lucas-castro-developer/candy-world">
-    <img src="img/#">
+    <img src="img/logo.png" width="50%">
   </a>
 
   <h3 align="center">Candy World</h3>
@@ -84,6 +84,10 @@ Este projeto foi construído com o auxílio da seguinte ferramenta
 ## Iniciando
 
 Para começar a manipular o projeto, siga os passos abaixo:
+
+### Pré-requisitos
+
+O único pré-requisito do projeto é ter o Construct 2 instalado localmente ou em sua versão portable.
 
 ### Instalação
 
