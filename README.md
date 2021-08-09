@@ -45,14 +45,35 @@ O projeto `Candy World` desenvolvido durante a leitura do livro "Construct 2: cr
 
 O jogo possui três fases e todas elas estão liberadas para que o jogador possa se aventurar livremente.
 
-O projeto possui cinco telas principais: a tela inicial, tela de seleção de fases, e os layouts das fases 1, 2 e 3.
-**Mobile**
+O projeto possui sete telas principais: a tela inicial, tela de seleção de fases, os layouts das fases 1, 2 e 3, e as telas de Pausa e Game Over.
 
-<img src="img/#">
+- Tela Inicial
 
-**Desktop**
+<img src="img/telaInicial.png" width="50%">
 
-<img src="img/#">
+- Tela da seleção de fases
+
+<img src="img/telaDeFases.png" width="50%">
+
+- Fase 1
+
+<img src="img/fase1.png" width="50%">
+
+- Fase 2
+
+<img src="img/fase2.png" width="50%">
+
+- Fase 3
+
+<img src="img/fase3.png" width="50%">
+
+- Tela de pausa
+
+<img src="img/telaPause.png" width="50%">
+
+- Tela de Game Over
+
+<img src="img/telaGameOver.png" width="50%">
 
 ### Construído com
 
@@ -64,10 +85,6 @@ Este projeto foi construído com o auxílio da seguinte ferramenta
 
 Para começar a manipular o projeto, siga os passos abaixo:
 
-### Pré-requisitos
-
-O projeto não possui nenhum pré-requisito para funcionar.
-
 ### Instalação
 
 1. Clone o repositório
@@ -75,14 +92,17 @@ O projeto não possui nenhum pré-requisito para funcionar.
  git clone https://github.com/lucas-castro-developer/candy-world.git
  ```
 
-2. Instale as dependências
- ```sh
- npm install
- ```
+2. Clique duas vezes no arquivo `candy-world.capx`, na raiz do projeto, e o Construct 2 será aberto:
 
-3. A estrutura do projeto é bem simples e para ter acesso ao layout do template construído, é só abrir o arquivo index.html. 
+3. Para rodar o projeto, clique na botão `Run Layout`:
 
-Seu navegador de preferência será aberto e o template renderizado.
+<img src="img/runLayout.png" width="50%">
+
+4. Caso queira rodar no modo debug, clique no botão `Debug Layout`:
+
+<img src="img/runDebug.png" width="50%">
+
+Seu navegador de preferência será aberto e o jogo será iniciado pelo navegador, geralmente no endereço `http://localhost:50000/`. Mas isso pode variar dependendo da configuração da sua máquina e/ou do projeto.
 
 ## Contribuição
 
